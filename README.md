@@ -1,4 +1,6 @@
-# README - Python Modules from O'Reilly Live Learning Agenda to actual Jupyter Lab Practice
+# README - Python Modules and Packages from Agenda to actual Jupyter Lab Practice
+**Presented by Reuven Lerner for O'Reilly Live Learning on April 1, 2021**
+
 ## What are modules?
 **Takeaways**:
 - Python libraries are called "modules"
